@@ -1,3 +1,4 @@
+
 const people = [
     {
       "name": "Charlotte Walker",
